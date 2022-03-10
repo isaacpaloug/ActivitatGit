@@ -1,3 +1,6 @@
 Activitat git - Creació i sincronització de repositoris
 1. Nova línea per fer un nou commit.
 
+
+
+4. Esborrar un arxiu
